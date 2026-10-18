@@ -1,0 +1,11 @@
+{
+  "org": "gruns",
+  "repo": "furl",
+  "versions": [
+    {
+      "commit": "46d9ea79c98bb14b970a199fb924705d024f29ad",
+      "tag": "",
+      "parsed_at": "2026-10-18T04:21:30.721952+00:00"
+    }
+  ]
+}
