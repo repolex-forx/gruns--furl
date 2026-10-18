@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/gruns/furl/commit/46d9ea79c98bb14b970a199fb924705d024f29ad",
       "git:hexsha": "46d9ea79c98bb14b970a199fb924705d024f29ad",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/gruns/furl/commit/bd8cc535d69a416353a2bdb1646262dfc9b2c7e8",
